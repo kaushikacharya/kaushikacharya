@@ -23,7 +23,7 @@ Though currently, I am primarily working on **Python**, previous projects were i
 - Tableau
 
 ### Publications
-My recent publication includes
+My recent [publication](https://kaushikacharya.github.io/publications/) includes
 - [Occupation Recognition and Normalization in Clinical Notes](http://ceur-ws.org/Vol-2943/meddoprof_paper6.pdf)
     - MEDical DOcuments PROFessions recognition (MEDDOPROF) 2021
     - [source code](https://github.com/kaushikacharya/clinical_occupation_recognition)
